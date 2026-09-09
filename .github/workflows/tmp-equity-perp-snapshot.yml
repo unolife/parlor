@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - "artifacts/equity_perp_tmp/collector.py"
+      - "artifacts/equity_perp_tmp/refine.py"
       - ".github/workflows/tmp-equity-perp-snapshot.yml"
 
 permissions:
@@ -16,15 +17,16 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - name: Collect and package exchange universes
+      - name: Collect exchange universes
         run: python3 artifacts/equity_perp_tmp/collector.py
+      - name: Refine stock/ETF taxonomy and names
+        run: python3 artifacts/equity_perp_tmp/refine.py
       - name: Commit snapshot
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add artifacts/equity_perp_tmp/output artifacts/equity_perp_tmp/equity_perps_snapshot.zip
-          git commit -m "data: temporary equity perp snapshot" || exit 0
+          git add artifacts/equity_perp_tmp/output artifacts/equity_perp_tmp/final artifacts/equity_perp_tmp/equity_perps_snapshot.zip artifacts/equity_perp_tmp/equity_perps_final.zip
+          git commit -m "data: refined temporary equity perp snapshot" || exit 0
+          git pull --rebase origin main
           git push
-
-# trigger: 2026-09-09
