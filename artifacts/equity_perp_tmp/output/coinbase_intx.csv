@@ -1,0 +1,24 @@
+exchange,contract_ticker,underlying_ticker,name,asset_type,quote_currency,status,max_leverage,market_region,source_endpoint,classification_method,confidence,collected_at_utc
+Coinbase International,557307184258482178,557307184258482178,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557309761100447746,557309761100447746,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557310737702191109,557310737702191109,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557311292382117894,557311292382117894,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557311701171568642,557311701171568642,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557312114918686728,557312114918686728,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,557312571007303695,557312571007303695,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,572063082839277577,572063082839277577,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,572063843782492160,572063843782492160,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,572064793171591171,572064793171591171,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,572065362372198400,572065362372198400,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,572065931358896136,572065931358896136,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,579216675551838211,579216675551838211,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,579217475275587586,579217475275587586,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,579218224743186437,579218224743186437,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,579218859463016462,579218859463016462,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,585196738755690498,585196738755690498,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,592251339367514114,592251339367514114,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,599967615166709803,599967615166709803,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,599968044327895045,599968044327895045,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,602065692358868992,602065692358868992,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,602066496696352770,602066496696352770,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00
+Coinbase International,602067715867279363,602067715867279363,,equity,,TRADING,,,https://api.international.coinbase.com/api/v1/instruments,underlying_type=equity|etf,high,2026-09-09T08:11:41+00:00

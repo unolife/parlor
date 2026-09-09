@@ -1,0 +1,206 @@
+{
+  "generated_at_utc": "2026-09-09T08:11:41+00:00",
+  "equity_rows": 1500,
+  "equity_by_exchange": {
+    "OKX": 171,
+    "KuCoin": 146,
+    "Coinbase International": 23,
+    "Kraken": 9,
+    "Bitget": 303,
+    "Gate": 360,
+    "MEXC": 480,
+    "BingX": 8
+  },
+  "exchange_collection": {
+    "bybit": {
+      "rows": 0,
+      "error": "RuntimeError('https://api.bybit.com/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')"
+    },
+    "okx": {
+      "rows": 171,
+      "types": {
+        "equity": 171
+      }
+    },
+    "kucoin": {
+      "rows": 146,
+      "types": {
+        "equity": 146
+      }
+    },
+    "coinbase_intx": {
+      "rows": 23,
+      "types": {
+        "equity": 23
+      }
+    },
+    "kraken": {
+      "rows": 10,
+      "types": {
+        "equity": 7,
+        "commodity_etf": 1,
+        "etf": 2
+      }
+    },
+    "bitget": {
+      "rows": 317,
+      "types": {
+        "equity_or_etf": 303,
+        "commodity": 8,
+        "private_proxy": 6
+      }
+    },
+    "binance": {
+      "rows": 0,
+      "error": "RuntimeError('https://fapi3.binance.com/fapi/v1/exchangeInfo: Expecting value: line 1 column 1 (char 0)')"
+    },
+    "gate_stock_symbol_universe": 4460,
+    "gate": {
+      "rows": 360,
+      "types": {
+        "equity": 254,
+        "etf": 57,
+        "equity_or_etf": 49
+      }
+    },
+    "mexc_concept_plates": [
+      [
+        "mc-trade-zone-0fees",
+        580
+      ],
+      [
+        "mc-trade-zone-tradfi",
+        456
+      ],
+      [
+        "mc-trade-zone-Stock",
+        426
+      ],
+      [
+        "mc-trade-zone-layer2",
+        112
+      ],
+      [
+        "mc-trade-zone-MEME",
+        101
+      ],
+      [
+        "mc-trade-zone-web3",
+        76
+      ],
+      [
+        "mc-trade-zone-stockindex",
+        65
+      ],
+      [
+        "mc-trade-zone-ETF",
+        58
+      ],
+      [
+        "mc-trade-zone-DeFi",
+        56
+      ],
+      [
+        "mc-trade-zone-ai",
+        45
+      ],
+      [
+        "mc-trade-zone-innovation",
+        40
+      ],
+      [
+        "mc-trade-zone-contract-new",
+        33
+      ],
+      [
+        "mc-trade-zone-pow",
+        30
+      ],
+      [
+        "mc-trade-zone-aiapplicationlayer",
+        28
+      ],
+      [
+        "mc-trade-zone-semiconductors",
+        27
+      ],
+      [
+        "mc-trade-zone-GameFi",
+        27
+      ],
+      [
+        "mc-trade-zone-AICompute",
+        25
+      ],
+      [
+        "mc-trade-zone-robinhood",
+        22
+      ],
+      [
+        "mc-trade-zone-nft",
+        21
+      ],
+      [
+        "mc-trade-zone-RWA",
+        21
+      ],
+      [
+        "mc-trade-zone-aisemiconductors",
+        20
+      ],
+      [
+        "mc-trade-zone-metaverse",
+        19
+      ],
+      [
+        "mc-trade-zone-Commodities",
+        18
+      ],
+      [
+        "mc-trade-zone-metalsfutures",
+        17
+      ],
+      [
+        "mc-trade-zone-PerpDex",
+        16
+      ],
+      [
+        "mc-trade-zone-privity",
+        15
+      ],
+      [
+        "mc-trade-zone-TON",
+        13
+      ],
+      [
+        "mc-trade-zone-metals",
+        12
+      ],
+      [
+        "mc-trade-zone-aerospace",
+        12
+      ],
+      [
+        "mc-trade-zone-aistorage",
+        12
+      ]
+    ],
+    "mexc": {
+      "rows": 480,
+      "types": {
+        "equity_or_etf": 480
+      }
+    },
+    "bingx": {
+      "rows": 8,
+      "types": {
+        "equity_or_etf": 8
+      }
+    }
+  },
+  "errors": {
+    "bybit": "RuntimeError('https://api.bybit.com/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "binance": "RuntimeError('https://fapi3.binance.com/fapi/v1/exchangeInfo: Expecting value: line 1 column 1 (char 0)')"
+  },
+  "methodology": "Official public APIs where explicit taxonomy exists; RWA/TradFi non-equities excluded; Gate/MEXC/BingX may use cross-exchange underlying matching; Kraken uses official xStocks perp list seed."
+}

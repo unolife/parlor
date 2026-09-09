@@ -1,0 +1,11 @@
+exchange,contract_ticker,underlying_ticker,name,asset_type,quote_currency,status,max_leverage,market_region,source_endpoint,classification_method,confidence,collected_at_utc
+Kraken,PF_AAPLXUSD,AAPL,Apple Inc.,equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_CRCLXUSD,CRCL,"Circle Internet Group, Inc.",equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_GLDXUSD,GLD,SPDR Gold Shares,commodity_etf,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_GOOGLXUSD,GOOGL,Alphabet Inc.,equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_HOODXUSD,HOOD,"Robinhood Markets, Inc.",equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_MSTRXUSD,MSTR,Strategy Inc.,equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_NVDAXUSD,NVDA,NVIDIA Corporation,equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_QQQXUSD,QQQ,Invesco QQQ Trust,etf,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_SPYXUSD,SPY,SPDR S&P 500 ETF Trust,etf,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
+Kraken,PF_TSLAXUSD,TSLA,"Tesla, Inc.",equity,USD,active,20,US,https://support.kraken.com/articles/xstocks-perpetual-futures,official xStocks list seed,high,2026-09-09T08:11:41+00:00
