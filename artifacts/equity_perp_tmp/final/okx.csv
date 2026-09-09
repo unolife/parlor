@@ -1,0 +1,172 @@
+exchange,contract_ticker,underlying_ticker,name,asset_type,quote_currency,status,max_leverage,market_region,source_endpoint,classification_method,confidence,collected_at_utc
+OKX,AAOI-USDT-SWAP,AAOI,"Applied Optoelectronics, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AAPL-USDT-SWAP,AAPL,Apple Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ADBE-USDT-SWAP,ADBE,Adobe Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AEHR-USDT-SWAP,AEHR,Aehr Test Systems,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ALAB-USDT-SWAP,ALAB,"Astera Labs, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AMAT-USDT-SWAP,AMAT,Applied Materials Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AMC-USDT-SWAP,AMC,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AMD-USDT-SWAP,AMD,Advanced Micro Devices,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AMZN-USDT-SWAP,AMZN,Amazon.Com Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ANTHROPIC-USDT-SWAP,ANTHROPIC,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,APLD-USDT-SWAP,APLD,Applied Digital Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,APP-USDT-SWAP,APP,Applovin Corporation Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ARM-USDT-SWAP,ARM,Arm Holdings plc American Depositary Shares,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ASML-USDT-SWAP,ASML,ASML Holding NV,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ASTS-USDT-SWAP,ASTS,"AST SpaceMobile, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AVGO-USDT-SWAP,AVGO,Broadcom Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,AXTI-USDT-SWAP,AXTI,AXT Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BB-USDT-SWAP,BB,BlackBerry Limited,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BE-USDT-SWAP,BE,Bloom Energy Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BMNR-USDT-SWAP,BMNR,"BitMine Immersion Technologies, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BOT-USDT-SWAP,BOT,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BRKB-USDT-SWAP,BRKB,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BSP-USDT-SWAP,BSP,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,BX-USDT-SWAP,BX,Blackstone Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CBRS-USDT-SWAP,CBRS,Cerebras Systems Inc. Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CGNX-USDT-SWAP,CGNX,Cognex Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CIEN-USDT-SWAP,CIEN,Ciena Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,COHR-USDT-SWAP,COHR,Coherent Corp.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,COIN-USDT-SWAP,COIN,"Coinbase Global, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,COST-USDT-SWAP,COST,Costco Wholesale Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CRCL-USDT-SWAP,CRCL,"Circle Internet Group, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CRDO-USDT-SWAP,CRDO,Credo Technology Group Holding Ltd Ordinary Shares,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CRM-USDT-SWAP,CRM,"Salesforce, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CRWD-USDT-SWAP,CRWD,"CrowdStrike Holdings, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CRWV-USDT-SWAP,CRWV,"CoreWeave, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CSCO-USDT-SWAP,CSCO,"Cisco Systems, Inc. Common Stock (DE)",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CSOPSAMSUNG2L-USDT-SWAP,CSOPSAMSUNG2L,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CSOPSKHYNIX2L-USDT-SWAP,CSOPSKHYNIX2L,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,CXMT-USDT-SWAP,CXMT,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,DDOG-USDT-SWAP,DDOG,"Datadog, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,DELL-USDT-SWAP,DELL,Dell Technologies Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,DKNG-USDT-SWAP,DKNG,DraftKings Inc. Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,DRAM-USDT-SWAP,DRAM,Roundhill Memory ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,EWJ-USDT-SWAP,EWJ,iShares MSCI Japan ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,EWT-USDT-SWAP,EWT,iShares MSCI Taiwan ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,EWY-USDT-SWAP,EWY,iShares MSCI South Korea ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,EWZ-USDT-SWAP,EWZ,iShares MSCI Brazil ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,FLNC-USDT-SWAP,FLNC,"Fluence Energy, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,FLY-USDT-SWAP,FLY,Firefly Aerospace Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,FWDI-USDT-SWAP,FWDI,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,GEV-USDT-SWAP,GEV,GE Vernova Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,GLW-USDT-SWAP,GLW,Corning Incorporated,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,GME-USDT-SWAP,GME,GameStop Corp. Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,GOOGL-USDT-SWAP,GOOGL,Alphabet Inc. Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,GPRO-USDT-SWAP,GPRO,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,HIMS-USDT-SWAP,HIMS,"Hims & Hers Health, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,HOOD-USDT-SWAP,HOOD,"Robinhood Markets, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,HPE-USDT-SWAP,HPE,Hewlett Packard Enterprise Company,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,HYUNDAI-USDT-SWAP,HYUNDAI,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,IBM-USDT-SWAP,IBM,International Business Machines Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,INFQ-USDT-SWAP,INFQ,"Infleqtion, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,INTC-USDT-SWAP,INTC,Intel Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,INTW-USDT-SWAP,INTW,GraniteShares 2x Long INTC Daily ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,IONQ-USDT-SWAP,IONQ,"IonQ, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,IREN-USDT-SWAP,IREN,IREN Limited,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ISRG-USDT-SWAP,ISRG,Intuitive Surgical Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,IWM-USDT-SWAP,IWM,iShares Russell 2000 ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,JNJ-USDT-SWAP,JNJ,Johnson & Johnson,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,JP225-USDT-SWAP,JP225,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,KIOXIA-USDT-SWAP,KIOXIA,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,KLAC-USDT-SWAP,KLAC,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,KO-USDT-SWAP,KO,Coca-Cola Company,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,KORU-USDT-SWAP,KORU,Direxion Daily MSCI South Korea Bull 3X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,KR200-USDT-SWAP,KR200,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,LITE-USDT-SWAP,LITE,Lumentum Holdings Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,LLY-USDT-SWAP,LLY,Eli Lilly & Co.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,LRCX-USDT-SWAP,LRCX,Lam Research Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,LUNR-USDT-SWAP,LUNR,"Intuitive Machines, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,LYTE-USDT-SWAP,LYTE,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MARA-USDT-SWAP,MARA,"MARA Holdings, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,META-USDT-SWAP,META,"Meta Platforms, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MINIMAX-USDT-SWAP,MINIMAX,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MOONSHOT-USDT-SWAP,MOONSHOT,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MRK-USDT-SWAP,MRK,"Merck & Co., Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MRNA-USDT-SWAP,MRNA,"Moderna, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MRVL-USDT-SWAP,MRVL,"Marvell Technology, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MSFT-USDT-SWAP,MSFT,Microsoft Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MSTR-USDT-SWAP,MSTR,Strategy Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MU-USDT-SWAP,MU,"Micron Technology, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MUU-USDT-SWAP,MUU,Direxion Shares ETF Trust Direxion Daily MU Bull 2X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,MVLL-USDT-SWAP,MVLL,GraniteShares 2x Long MRVL Daily ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NBIS-USDT-SWAP,NBIS,Nebius Group NV,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NET-USDT-SWAP,NET,"Cloudflare, Inc. Class A common stock, par value $0.001 per share",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NFLX-USDT-SWAP,NFLX,NetFlix Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NOK-USDT-SWAP,NOK,Nokia Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NOW-USDT-SWAP,NOW,"SERVICENOW, INC.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NVDA-USDT-SWAP,NVDA,Nvidia Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,NVDL-USDT-SWAP,NVDL,GraniteShares ETF Trust GraniteShares 2x Long NVDA Daily ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,OKTA-USDT-SWAP,OKTA,"Okta, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ON-USDT-SWAP,ON,ON Semiconductor Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ONDS-USDT-SWAP,ONDS,Ondas Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,OPENAI-USDT-SWAP,OPENAI,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ORCL-USDT-SWAP,ORCL,Oracle Corp,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,OSCR-USDT-SWAP,OSCR,"Oscar Health, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,OUST-USDT-SWAP,OUST,"Ouster, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,PENG-USDT-SWAP,PENG,"Penguin Solutions, Inc. Ordinary Shares",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,PLTR-USDT-SWAP,PLTR,Palantir Technologies Inc. Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,POET-USDT-SWAP,POET,POET Technologies Inc. Common Shares,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,POPMART-USDT-SWAP,POPMART,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,PURR-USDT-SWAP,PURR,Hyperliquid Strategies Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,PYPL-USDT-SWAP,PYPL,"PayPal Holdings, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,QCOM-USDT-SWAP,QCOM,Qualcomm Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,QNT-USDT-SWAP,QNT,Quantinuum Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,QQQ-USDT-SWAP,QQQ,Invesco QQQ Trust,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RAM-USDT-SWAP,RAM,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RDDT-USDT-SWAP,RDDT,"Reddit, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RDW-USDT-SWAP,RDW,Redwire Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RIOT-USDT-SWAP,RIOT,"Riot Platforms, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RIVN-USDT-SWAP,RIVN,"Rivian Automotive, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,RKLB-USDT-SWAP,RKLB,Rocket Lab Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ROK-USDT-SWAP,ROK,"Rockwell Automation, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SAMSUNG-USDT-SWAP,SAMSUNG,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SHAZ-USDT-SWAP,SHAZ,"SharonAI Holdings, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SHEIN-USDT-SWAP,SHEIN,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SHLD-USDT-SWAP,SHLD,Global X Defense Tech ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SHOP-USDT-SWAP,SHOP,Shopify Inc. Class A subordinate voting shares,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SIMO-USDT-SWAP,SIMO,Silicon Motion Technology Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SKDD-USDT-SWAP,SKDD,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SKHY-USDT-SWAP,SKHY,SK Hynix,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SKHYNIX-USDT-SWAP,SKHYNIX,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SKUU-USDT-SWAP,SKUU,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SMCI-USDT-SWAP,SMCI,"Super Micro Computer, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SMH-USDT-SWAP,SMH,VanEck Semiconductor ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SNDK-USDT-SWAP,SNDK,Sandisk Corporation,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SNOW-USDT-SWAP,SNOW,Snowflake Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SNXX-USDT-SWAP,SNXX,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SOFTBANK-USDT-SWAP,SOFTBANK,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SONY-USDT-SWAP,SONY,Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated Common Stock),equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SOXL-USDT-SWAP,SOXL,Direxion Daily Semiconductor Bull 3X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SOXS-USDT-SWAP,SOXS,Direxion Daily Semiconductor Bear 3X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SPCH-USDT-SWAP,SPCH,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SPCX-USDT-SWAP,SPCX,SpaceX,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SPY-USDT-SWAP,SPY,State Street SPDR S&P 500 ETF Trust,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,SQQQ-USDT-SWAP,SQQQ,ProShares UltraPro Short QQQ,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,STRC-USDT-SWAP,STRC,Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TER-USDT-SWAP,TER,"Teradyne, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TMF-USDT-SWAP,TMF,Direxion Daily 20+ Year Treasury Bull 3X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TQQQ-USDT-SWAP,TQQQ,ProShares  UltraPro QQQ,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TSEM-USDT-SWAP,TSEM,Tower Semiconductor Ltd,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TSLA-USDT-SWAP,TSLA,"Tesla, Inc.",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TSLL-USDT-SWAP,TSLL,Direxion Shares ETF Trust Direxion Daily TSLA Bull 2X ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TSM-USDT-SWAP,TSM,Taiwan Semiconductor Manufacturing Company Limited,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TTMI-USDT-SWAP,TTMI,TTM Technologies Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TTWO-USDT-SWAP,TTWO,Take-Two Interactive Software Inc,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,TWLO-USDT-SWAP,TWLO,Twilio Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,UNH-USDT-SWAP,UNH,UNITEDHEALTH GROUP INCORPORATED (Delaware),equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,UNITREE-USDT-SWAP,UNITREE,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,URNM-USDT-SWAP,URNM,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,USAR-USDT-SWAP,USAR,"USA Rare Earth, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,USO-USDT-SWAP,USO,"United States Oil Fund, LP",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,UVXY-USDT-SWAP,UVXY,ProShares Ultra VIX Short-Term Futures ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,VRT-USDT-SWAP,VRT,Vertiv Holdings Co Class A,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,WDC-USDT-SWAP,WDC,Western Digital Corp.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,WEN-USDT-SWAP,WEN,The Wendy's Company,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,WMT-USDT-SWAP,WMT,Walmart Inc.,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,XBI-USDT-SWAP,XBI,State Street SPDR S&P Biotech ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,XIAOMI-USDT-SWAP,XIAOMI,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,XLE-USDT-SWAP,XLE,State Street Energy Select Sector SPDR ETF,equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ZHIPU-USDT-SWAP,ZHIPU,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ZHONGJI-USDT-SWAP,ZHONGJI,,equity,USDT,live,,,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00
+OKX,ZM-USDT-SWAP,ZM,"Zoom Communications, Inc. Class A",equity,USDT,live,,US,https://www.okx.com/api/v5/public/instruments?instType=SWAP,instCategory=3,high,2026-09-09T08:17:41+00:00

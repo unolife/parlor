@@ -1,9 +1,9 @@
 exchange,contract_ticker,underlying_ticker,name,asset_type,quote_currency,status,max_leverage,market_region,source_endpoint,classification_method,confidence,collected_at_utc
 BingX,4STOCK-USDT,4STOCK,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,API metadata marker,high,2026-09-09T08:17:41+00:00
-BingX,BB-USDT,BB,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
+BingX,BB-USDT,BB,BlackBerry Limited,equity,USDT,1,,US,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
 BingX,NCSINASDAQ1002USD-USDT,NCSINASDAQ1002USD,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,API metadata marker,high,2026-09-09T08:17:41+00:00
-BingX,ON-USDT,ON,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
+BingX,ON-USDT,ON,ON Semiconductor Corp,equity,USDT,1,,US,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
 BingX,PAXG-USDT,PAXG,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
-BingX,PURR-USDT,PURR,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
-BingX,QNT-USDT,QNT,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
+BingX,PURR-USDT,PURR,Hyperliquid Strategies Inc,equity,USDT,1,,US,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
+BingX,QNT-USDT,QNT,Quantinuum Inc,equity,USDT,1,,US,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00
 BingX,XAUT-USDT,XAUT,,equity_or_etf,USDT,1,,,https://open-api.bingx.com/openApi/swap/v2/quote/contracts,cross-exchange underlying match,medium,2026-09-09T08:17:41+00:00

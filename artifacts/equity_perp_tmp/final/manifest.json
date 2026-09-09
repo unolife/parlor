@@ -1,0 +1,59 @@
+{
+  "generated_at_utc": "2026-09-09T08:18:38+00:00",
+  "rows": 1410,
+  "by_exchange": {
+    "BingX": 8,
+    "Bitget": 300,
+    "Coinbase International": 23,
+    "Gate": 326,
+    "Kraken": 10,
+    "KuCoin": 146,
+    "MEXC": 426,
+    "OKX": 171
+  },
+  "coverage": {
+    "Bitget": "complete_live_api",
+    "MEXC": "complete_live_api",
+    "Gate": "matched_live_futures_to_live_stock_master",
+    "Bybit": "blocked_by_runner_region",
+    "Binance": "blocked_by_runner_region",
+    "OKX": "complete_live_api",
+    "KuCoin": "complete_live_api",
+    "Coinbase International": "complete_live_api",
+    "Kraken": "official_list_seed",
+    "BingX": "partial_api_match_only"
+  },
+  "gate_stock_master_rows": 4716,
+  "bybit_host_used": "",
+  "binance_host_used": "",
+  "errors": {
+    "Bybit https://api.bytick.com": "RuntimeError('https://api.bytick.com/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybit.kz": "RuntimeError('https://api.bybit.kz/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybitgeorgia.ge": "RuntimeError('https://api.bybitgeorgia.ge/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybit.ae": "RuntimeError('https://api.bybit.ae/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybit.tr": "RuntimeError('https://api.bybit.tr/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybit.nl": "RuntimeError('https://api.bybit.nl/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Bybit https://api.bybit.com": "RuntimeError('https://api.bybit.com/v5/market/instruments-info?category=linear&limit=1000: HTTP Error 403: Forbidden')",
+    "Binance https://fapi.binance.com": "RuntimeError('https://fapi.binance.com/fapi/v1/exchangeInfo: HTTP Error 451: ')",
+    "Binance https://fapi1.binance.com": "RuntimeError('https://fapi1.binance.com/fapi/v1/exchangeInfo: Expecting value: line 1 column 1 (char 0)')",
+    "Binance https://fapi2.binance.com": "RuntimeError('https://fapi2.binance.com/fapi/v1/exchangeInfo: Expecting value: line 1 column 1 (char 0)')",
+    "Binance https://fapi3.binance.com": "RuntimeError('https://fapi3.binance.com/fapi/v1/exchangeInfo: Expecting value: line 1 column 1 (char 0)')",
+    "Binance https://api-gcp.binance.com": "RuntimeError('https://api-gcp.binance.com/fapi/v1/exchangeInfo: HTTP Error 451: ')"
+  },
+  "notes": [],
+  "schema": [
+    "exchange",
+    "contract_ticker",
+    "underlying_ticker",
+    "name",
+    "asset_type",
+    "quote_currency",
+    "status",
+    "max_leverage",
+    "market_region",
+    "source_endpoint",
+    "classification_method",
+    "confidence",
+    "collected_at_utc"
+  ]
+}
